@@ -1,0 +1,1 @@
+SELECT origin, COUNT(*) FROM flights GROUP BY origin;

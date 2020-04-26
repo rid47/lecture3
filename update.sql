@@ -1,0 +1,1 @@
+UPDATE flights SET duration = 430 WHERE origin = 'NewYork' AND destination = 'London';

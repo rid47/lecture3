@@ -1,0 +1,1 @@
+ SELECT * FROM flights ORDER BY duration DESC LIMIT 1;
